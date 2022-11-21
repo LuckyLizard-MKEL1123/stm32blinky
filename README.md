@@ -13,7 +13,7 @@ STM32 toolchain checkout
 - [x] Software used: **STM32CubeIDE**
 ## Procedure
 1. STM32CubeIDE is used as development platform throughout this course
-2. The source code is generated in C language: [stm32blinky.c](pastelink)
+2. The source code is generated in C language: [stm32blinky.c](https://github.com/LuckyLizard-MKEL1123/stm32blinky/blob/main/stm32blinky.c)
    
   - Port A, Pin 5 represent the green LED on the nucleo board
   - The port was set to toggle
