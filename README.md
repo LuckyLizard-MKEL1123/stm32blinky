@@ -17,7 +17,7 @@ STM32 toolchain checkout
    
   - Port A, Pin 5 represent the green LED on the nucleo board
   - The port was set to toggle
-  - A delay of 1000ms was set so that the green LED will toggle every 1000ms
+  - A delay of 1s was set so that the green LED will toggle every 1s
 ## Results
 Link for milestone 1.1 demo: [title](pastelink)
 ## References
