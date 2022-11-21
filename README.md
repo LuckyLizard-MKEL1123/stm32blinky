@@ -1,5 +1,5 @@
 # Milestone1.1: stm32blinky
-Group Name: **Lucky Lizard** :lizard
+Group Name: **Lucky Lizard** :lizard:
 
 Group Member: 
 1. **Andi Nur Asyikin Binti Andi Zainuddin**
