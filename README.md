@@ -21,3 +21,4 @@ STM32 toolchain checkout
 ## Results
 Link for milestone 1.1 demo: [title](pastelink)
 ## References
+1. https://www.digikey.com/en/maker/videos/shawn-hymel/getting-started-with-stm32-and-nucleo-part-1-introduction-to-stm32cubeide-and-blinky
