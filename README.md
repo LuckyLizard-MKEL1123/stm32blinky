@@ -19,6 +19,6 @@ STM32 toolchain checkout
   - The port was set to toggle
   - A delay of 1s was set so that the green LED will toggle every 1s
 ## Results
-Link for milestone 1.1 demo: [title](pastelink)
+Link for milestone 1.1 demo: [blinky](https://www.youtube.com/watch?v=TXdVhN1mfpE)
 ## References
 1. https://www.digikey.com/en/maker/videos/shawn-hymel/getting-started-with-stm32-and-nucleo-part-1-introduction-to-stm32cubeide-and-blinky
